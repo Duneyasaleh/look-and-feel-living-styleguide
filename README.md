@@ -1,11 +1,10 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Naam deeltaak
 
 
-## Licentie
+# PlantSwap 
+
+### Een living styleguide is essentieel voor het begrijpen en overbrengen van de look and feel van een website.
+
+![styleguide readme-img](https://user-images.githubusercontent.com/54691201/203522405-5e9938b6-30f1-41eb-9283-fba81b59010a.png)
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
